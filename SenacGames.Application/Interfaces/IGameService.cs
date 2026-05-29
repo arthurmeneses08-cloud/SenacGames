@@ -20,4 +20,7 @@ namespace SenacGames.Application.Interfaces
         Task<bool> DeleteAsync(int id);
         Task<int> CountAsync();
     }
+    //
+    //
+
 }
